@@ -1,0 +1,28 @@
+.red{
+    background-color: #FF0000;
+    border: none;
+    width: 100px;
+    height: 50px;
+    border-radius: 7px;
+}
+.green{
+    background-color: #00FF00;
+    border: none;
+    width: 100px;
+    height: 50px;
+    border-radius: 7px;
+}
+.yellow{
+    background-color: yellow;
+    border: none;
+    width: 100px;
+    height: 50px;
+    border-radius: 7px;
+}
+.reset{
+    background-color: grey;
+    border: none;
+    width: 100px;
+    height: 50px;
+    border-radius: 7px;
+}
